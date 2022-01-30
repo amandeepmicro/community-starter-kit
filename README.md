@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A bot to help generate welcome messages automatically to improve user experience.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Automatically generates welcome message for new users.
+- Generates template for message.
 
 ## Getting started
 
